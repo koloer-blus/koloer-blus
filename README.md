@@ -1,3 +1,18 @@
+<pre align="center">
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+
+</pre>
+
 <h2 align="center">
   Welcome to baiziyu's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -9,7 +24,12 @@
   
 </p>
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+</div>
+
 ## 🔥 Streak stats
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baiziyu-fe&theme=nightowl">
@@ -20,6 +40,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baiziyu-fe&hide=contribs,prs&count_private=true&theme=radical">
 </p>
+
 
 ## 📚 npm package
 
