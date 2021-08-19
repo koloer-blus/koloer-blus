@@ -66,7 +66,7 @@
 
 ## 📘 My open source projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baiziyu-fe&repo=use-hooks&theme=radical)](https://www.npmjs.com/package/pre-me-cli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baiziyu-fe&repo=use-hooks&theme=radical)](https://github.com/baiziyu-fe/use-hooks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baiziyu-fe&repo=housekeeper-fe&theme=nightowl)](https://github.com/baiziyu-fe/housekeeper-fe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baiziyu-fe&repo=XDU-smart-lab&theme=tokyonight)](https://github.com/baiziyu-fe/XDU-smart-lab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baiziyu-fe&repo=nest-learn-dev&theme=cobalt)](https://github.com/baiziyu-fe/nest-learn-dev)
