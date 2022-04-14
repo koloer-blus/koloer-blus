@@ -16,3 +16,4 @@
 ## Personal Project
 
 - [🎉我的技术笔记](https://baiziyu-fe.github.io/notes/)
+- [🥇西安邮电大学研究生奖学金项目](https://baiziyu-personal-product.github.io/sign)
