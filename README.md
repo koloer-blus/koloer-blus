@@ -13,6 +13,6 @@
 
 </pre>
 
-## 笔记大全
+## Personal Project
 
 - [🎉我的技术笔记](https://baiziyu-fe.github.io/notes/)
