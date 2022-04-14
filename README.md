@@ -39,9 +39,8 @@
 <img src="./wizz-chat.png"/>
 </div>
       
-【365天不间断招聘】[投递入口👀：](https://orientation-system.wizzstudio.com/#/user/delivery)
-
-内推人：白子煜
+- 365天不间断招聘：[投递链接👀](https://orientation-system.wizzstudio.com/#/user/delivery)
+- 内推人：白子煜
 
 ### AllSpark工作室
 
