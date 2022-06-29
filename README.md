@@ -17,10 +17,10 @@
 
 - [🎉我的技术笔记](https://baiziyu-fe.github.io/notes/)
 - [🥇西安邮电大学研究生奖学金项目](https://baiziyu-personal-product.github.io/xupt-scholarship-fe/)
-- [🎨React驱动的Markdown网站生成器](https://baiziyu-fe.github.io/ReactPress/)
-- [🎯etmo 前端通用工具集](https://github.com/baiziyu-fe/etmo)
-- [⛏pre-me-cli React项目脚手架](https://github.com/baiziyu-fe/pre-me-cli)
-- [📘go 语言学习笔记](https://github.com/baiziyu-fe/go-study)
+- [🎨`React` 驱动的 `Markdown` 网站生成器](https://baiziyu-fe.github.io/ReactPress/)
+- [🎯`etmo`前端通用工具集](https://github.com/baiziyu-fe/etmo)
+- [⛏`pre-me-cli` `React`项目脚手架](https://github.com/baiziyu-fe/pre-me-cli)
+- [📘`Go` 语言学习笔记](https://github.com/baiziyu-fe/go-study)
 
 
 ---
