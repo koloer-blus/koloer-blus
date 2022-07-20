@@ -36,7 +36,11 @@
 
 内推链接：[查看全部职位](https://job.toutiao.com/s/2DqnewH)
 
-超多职位待你来选
+超多职位待你来选~
+
+<div align="center">
+<img style="width:600px;" src="./内推.jpg"/>
+</div>
 
 ---
 
