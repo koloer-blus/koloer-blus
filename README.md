@@ -34,7 +34,8 @@
 
 期待优秀的你加入我们，一起做有挑战的事！
 
-内推链接：[查看全部职位](https://job.toutiao.com/s/2DqnewH)
+- 内推链接：[查看全部职位](https://job.toutiao.com/s/2DqnewH)
+- 内推码：WXJN7GR
 
 超多职位待你来选~
 
