@@ -16,7 +16,7 @@
 ## Personal Project
 
 - [🎉我的技术笔记](https://koloer-blus.github.io/notes/)
-- [🥇西安邮电大学研究生奖学金项目](https://blus-personal-product.github.io/xupt-scholarship-fe/)
+- [🥇研究生奖学金项目](https://blus-personal-product.github.io/xupt-scholarship-fe/)
 - [🎨`React` 驱动的 `Markdown` 网站生成器](https://github.com/koloer-blus/react-sorcery)
 - [🎯`etmo-utils`前端通用工具集](https://github.com/koloer-blus/etmo-utils)
 - [⛏`pre-me-cli` `React`项目脚手架](https://github.com/koloer-blus/pre-me-cli)
