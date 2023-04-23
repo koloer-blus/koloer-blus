@@ -13,23 +13,6 @@
 
 </pre>
 
-## Personal Project
-
-- [🎉我的技术笔记](https://koloer-blus.github.io/notes/)
-- [🥇研究生奖学金项目](https://blus-personal-product.github.io/xupt-scholarship-fe/)
-- [🎨`React` 驱动的 `Markdown` 网站生成器](https://github.com/koloer-blus/react-sorcery)
-- [🎯`etmo-utils`前端通用工具集](https://github.com/koloer-blus/etmo-utils)
-- [⛏`pre-me-cli` `React`项目脚手架](https://github.com/koloer-blus/pre-me-cli)
-- [📘`Go` 语言学习笔记](https://github.com/koloer-blus/go-study)
-
-## Career Opportunities
-
-
-<div align="center">
-<img src="https://lf3-cdn-tos.bytescm.com/obj/ttfe/atsx/pc-logo-cn_1568786794220.png"/>
-</div>
-
-
 字节跳动（ByteDance）人内推来喽！
 
 期待优秀的你加入我们，一起做有挑战的事！
@@ -38,10 +21,6 @@
 - 内推码：WXJN7GR
 
 超多职位待你来选~
-
-<div align="center">
-<img style="width:600px;" src="./内推.jpg"/>
-</div>
 
 ---
 
