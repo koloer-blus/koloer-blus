@@ -12,18 +12,3 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
 </pre>
-
-字节跳动（ByteDance）人内推来喽！
-
-期待优秀的你加入我们，一起做有挑战的事！
-
-- 内推链接：[查看全部职位](https://job.toutiao.com/s/2DqnewH)
-- 内推码：WXJN7GR
-
-超多职位待你来选~
-
----
-
-<div align="center">
-      <a href="https://juejin.cn/user/870468941264270">掘金</a> ■ <a href="https://wizzstudio.com/">WIZZ 工作室</a> ■ <a href="https://zypc.xupt.edu.cn/">智邮普创工作室</a> ■ <a href="https://space.bilibili.com/386011606?spm_id_from=333.337.search-card.all.click">ALL Spark 工作室</a>
-</div>
